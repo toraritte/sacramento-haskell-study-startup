@@ -9,8 +9,10 @@ To prepare for your first visit, please do the following:
 - **Join the [FPChat](http://fpchat-invite.herokuapp.com/) Slack community.**
 All announcements pertaining to this study group will be sent out via Meetup and Slack. On the FPChat Slack, look for the `#haskell-study-group` channel.
 
-- **[Purchase](https://gumroad.com/l/haskellbook) your own copy of the book (discount codes may be available).**
+- **[Purchase](https://gumroad.com/l/haskellbook) your own copy of the book.**
 You will need your own copy on your own machine so you can work with the PDF and your terminal open side-by-side. This book was independently researched, written, and published by two Haskell developers working in their spare time to support education in functional programming. As a member of our strong and supportive community, we know you are too committed to the spirit of pure actions to "borrow" someone else's copy. They typeset it with LaTeX: give them a break!
+</br></br>
+**Discount codes** may be available if the cost is prohibitive. On the other hand, please do not ask for a discount if you don't really need it.
 
 - **Install [Stack](https://docs.haskellstack.org/en/stable/README/), the Haskell project development tool.**
 If you are familiar with package managers like npm, pip, and apt, Stack is similar. You needn't show up already an expert, but do at least [learn the basics](resources/haskell-stack-notes.md). If you want to know everything, though, you could watch [this video](https://www.youtube.com/watch?v=sRonIB8ZStw). The most important thing: whatever you do, _do not install the Haskell Platform_.
@@ -32,8 +34,6 @@ These expectations are not meant to make your life miserable but to provide a fr
 #### For the sake of emphasis: _do not skip the exercises!_
 
 If you are a complete beginner to programming or for whatever reason have trouble installing Haskell on your computer, don't worry about it! Come to the study group, and we'll help you figure it out. Fortunately, you don't even need a computer to work through Chapter 1—just pen, paper, and patience. So make sure you at least do that much, even if you require tech support.
-
-**Discount codes** for the book are available if you genuinely need one. The authors do not want the price of the book to dissuade anyone from purchasing it, so please contact me if the cost is prohibitive, and you would like to request a discount. Please do not ask for a discount if you don't really need it. The number of codes I have is limited, and I want to reserve them for those who do.
 
 ### Conduct of code
 
