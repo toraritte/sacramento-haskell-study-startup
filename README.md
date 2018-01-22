@@ -1,4 +1,6 @@
-# Haskell Study Group
+![](images/haskell-logo.png)
+
+# Sacramento Haskell Study Group
 
 ## Guidelines
 
@@ -119,3 +121,11 @@ Meeting days, times, and locations may vary from week to week depending on the a
 
 For details of specific meetings, see the Meetup page.
 
+---
+
+A great thank you for Steven Syrek ([sjsyrek](https://github.com/sjsyrek)) for creating this template for future study groups! Please also check out the [original repo](https://github.com/sjsyrek/haskell-study-startup) for more insights.
+
+Some of his articles about the pedagogy appropriate for this sort of study group on [Medium](https://medium.com/@sjsyrek):
+
+- [What a Haskell Study Group is Not](https://medium.com/@sjsyrek/what-a-haskell-study-group-is-not-470f4aeb9673)
+- [Some Notes on Haskell Pedagogy](https://medium.com/@sjsyrek/some-notes-on-haskell-pedagogy-de43281b1a5c)
