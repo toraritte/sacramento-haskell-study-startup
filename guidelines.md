@@ -35,7 +35,7 @@ If you are a complete beginner to programming or for whatever reason have troubl
 
 **Discount codes** for the book are available if you genuinely need one. The authors do not want the price of the book to dissuade anyone from purchasing it, so please contact me if the cost is prohibitive, and you would like to request a discount. Please do not ask for a discount if you don't really need it. The number of codes I have is limited, and I want to reserve them for those who do.
 
-### Conduct of code
+### Code of conduct
 
 By participating in this study group, you implicitly agree to conduct your coding as follows:
 
